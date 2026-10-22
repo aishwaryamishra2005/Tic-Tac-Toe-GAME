@@ -6,7 +6,7 @@ A cute, pastel-themed two-player Tic-Tac-Toe game built with **Python** and **Tk
 
 Here is a preview of my Tic-Tac-Toe game!
 
-![Tic-Tac-Toe Game Screenshot](Screenshots/game.png)
+![Tic-Tac-Toe Game Screenshot](Screenshots/Game.png)
 
 ## Features
 
