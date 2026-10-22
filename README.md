@@ -2,6 +2,11 @@
 
 A cute, pastel-themed two-player Tic-Tac-Toe game built with **Python** and **Tkinter**. Two players take turns on the same computer, with a live scoreboard that keeps track of wins and draws.
 
+## 🎮 Game Preview
+
+Here is a preview of my Tic-Tac-Toe game!
+
+![Tic-Tac-Toe Game Screenshot](screenshots/game.png)
 
 ## Features
 
